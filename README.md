@@ -33,10 +33,10 @@
 
 ## 📊 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielVMedeiros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielVMedeiros&theme=tokyonight&hide_border=true)
-
 <div align="center">
-
+  
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielVMedeiros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielVMedeiros&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVMedeiros&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
