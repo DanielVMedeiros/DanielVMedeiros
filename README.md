@@ -10,13 +10,11 @@
 🇺🇸 **English:**  
 - 🎓 I'm currently pursuing a **Bachelor's Degree in Computer Science** at **CEFET-RJ**.  
 - 🔭 I currently work at **BNDES** as an intern in the area of Systems Analysis and Development.  
-- 🌱 I’m currently learning to become a **Java Back-End Developer**.  
 - 💡 Passionate about technology, software architecture, and clean code.  
 
 🇧🇷 **Português:**  
 - 🎓 Atualmente curso **Bacharelado em Ciência da Computação** no **CEFET-RJ**.  
-- 🔭 Trabalho no **BNDES** como **estagiário** na área de **Análise e Desenvolvimento de Sistemas**.  
-- 🌱 Estou aprendendo para me tornar um **Desenvolvedor Back-End Java**.  
+- 🔭 Trabalho no **BNDES** como **estagiário** na área de **Análise e Desenvolvimento de Sistemas**.
 - 💡 Apaixonado por tecnologia, arquitetura de software e boas práticas de código.  
 
 ---
