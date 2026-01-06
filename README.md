@@ -25,6 +25,11 @@
 `Java` | `Spring Boot` | `SQL` | `Python` | `React Native` | `JavaScript` | `PHP`
 
 🧰 **Tools:**  
+`Git` | `Maven` | `VS Code` | `Postman` | `Insomnia` | `Docker` | `Linux`
+
+---
+
+## 💼 **Job Experience**
 <br>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -32,11 +37,6 @@
     <td width="100px" align="center" valign="middle">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_do_BNDES.svg" width="90" alt="BNDES" />
     </td>
-`Git` | `Maven` | `VS Code` | `Postman` | `Insomnia` | `Docker` | `Linux`
-
----
-
-## 💼 **Job Experience**
     <td>
       <b>System Analyst Intern</b> • <i>May 2024 – Present</i> <br>
       <b>BNDES - Banco Nacional de Desenvolvimento Econômico e Social</b> <br>
@@ -58,6 +58,8 @@
 
 <br>
 
+
+---
 
 ## ✉️ Contact Me
 
