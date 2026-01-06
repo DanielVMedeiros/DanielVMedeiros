@@ -25,11 +25,6 @@
 `Java` | `Spring Boot` | `SQL` | `Python` | `React Native` | `JavaScript` | `PHP`
 
 🧰 **Tools:**  
-`Git` | `Maven` | `VS Code` | `Postman` | `Insomnia` | `Docker` | `Linux`
-
----
-
-## 💼 **Job Experience**
 <br>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -37,6 +32,11 @@
     <td width="100px" align="center" valign="middle">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_do_BNDES.svg" width="90" alt="BNDES" />
     </td>
+`Git` | `Maven` | `VS Code` | `Postman` | `Insomnia` | `Docker` | `Linux`
+
+---
+
+## 💼 **Job Experience**
     <td>
       <b>System Analyst Intern</b> • <i>May 2024 – Present</i> <br>
       <b>BNDES - Banco Nacional de Desenvolvimento Econômico e Social</b> <br>
@@ -58,45 +58,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielVMedeiros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Daniel's GitHub stats"
-    height="170"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=DanielVMedeiros&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="170"
-  />
-
-  <br />
-
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanielVMedeiros&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Langs"
-  />
-
-</div>
-
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=DanielVMedeiros&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10)
-
----
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielVMedeiros&theme=tokyo-night&hide_border=true)
-
----
 
 ## ✉️ Contact Me
 
