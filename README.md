@@ -62,13 +62,27 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielVMedeiros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub stats" height="170" />
-  <img src="https://streak-stats.demolab.com?user=DanielVMedeiros&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielVMedeiros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Daniel's GitHub stats"
+    height="170"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=DanielVMedeiros&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="170"
+  />
 
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVMedeiros&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanielVMedeiros&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Langs"
+  />
 
 </div>
+
 
 ---
 
