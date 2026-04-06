@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 💻 **Languages & Frameworks:**  
-`Java` | `Spring Boot` | `SQL` | `Python` | `React Native` | `JavaScript` | `PHP`
+ `Python` | `IA` |`Java` | `Spring Boot` | `SQL` | `Python` | `React Native` | `JavaScript` | `PHP`
 
 🧰 **Tools:**  
 `Git` | `Maven` | `VS Code` | `Postman` | `Insomnia` | `Docker` | `Linux`
