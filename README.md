@@ -1,67 +1,150 @@
-# 👋 Hi there, I'm Daniel Vieira Medeiros  
+# 👋 Hi there, I'm Daniel Vieira Medeiros
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Vieira%20Medeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielvieiramedeiros/)](https://www.linkedin.com/in/danielvieiramedeiros/)
-[![Gmail Badge](https://img.shields.io/badge/-dmedeiros1209@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmedeiros1209@gmail.com)](mailto:dmedeiros1209@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Vieira%20Medeiros-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/danielvieiramedeiros/)](https://www.linkedin.com/in/danielvieiramedeiros/)
+[![Gmail Badge](https://img.shields.io/badge/-dmedeiros1209@gmail.com-c14438?style=flat-square\&logo=Gmail\&logoColor=white\&link=mailto\:dmedeiros1209@gmail.com)](mailto:dmedeiros1209@gmail.com)
 
 ---
 
-## 💼 About Me / Sobre mim
+# 🤖 AI Engineer | Machine Learning | Generative AI
 
-🇺🇸 **English:**  
-- 🎓 I'm currently pursuing a **Bachelor's Degree in Computer Science** at **CEFET-RJ**.  
-- 🔭 I currently work at **BNDES** as an intern in the area of Systems Analysis and Development.  
-- 💡 Passionate about technology, software architecture, and clean code.  
+Building intelligent systems that transform data into decisions and automation into value.
 
-🇧🇷 **Português:**  
-- 🎓 Atualmente curso **Bacharelado em Ciência da Computação** no **CEFET-RJ**.  
-- 🔭 Trabalho no **BNDES** como **estagiário** na área de **Análise e Desenvolvimento de Sistemas**.
-- 💡 Apaixonado por tecnologia, arquitetura de software e boas práticas de código.  
+---
+
+## 💼 About Me / Sobre Mim
+
+### 🇺🇸 English
+
+* 🎓 Bachelor's degree in **Computer Science** from **CEFET-RJ**.
+* 🤖 AI Engineer focused on **Machine Learning**, **Generative AI**, **LLMs**, **RAG Systems**, and **Intelligent Agents**.
+* 🔬 Experienced in developing AI solutions for prediction, recommendation, automation, information retrieval, and decision support.
+* 🚀 Passionate about Artificial Intelligence, Data Science, Software Engineering, and scalable systems.
+* 🔭 Currently working at **BNDES**, contributing to enterprise software development and innovation initiatives.
+
+### 🇧🇷 Português
+
+* 🎓 Bacharel de **Ciência da Computação** no **CEFET-RJ**.
+* 🤖 Especialista em **Inteligência Artificial**, com foco em **Machine Learning**, **IA Generativa**, **LLMs**, **Sistemas RAG** e **Agentes Inteligentes**.
+* 🔬 Experiência no desenvolvimento de soluções baseadas em IA para previsão, recomendação, automação de processos e apoio à tomada de decisão.
+* 🚀 Apaixonado por Inteligência Artificial, Ciência de Dados, Engenharia de Software e sistemas escaláveis.
+* 🔭 Atualmente atuando no **BNDES**, contribuindo para projetos corporativos e iniciativas de inovação tecnológica.
+
+---
+
+## 🧠 Areas of Expertise
+
+* Artificial Intelligence (AI)
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Prompt Engineering
+* Data Science
+* Predictive Analytics
+* MLOps
+* Intelligent Automation
 
 ---
 
 ## 🛠️ Tech Stack
 
-💻 **Languages & Frameworks:**  
- `Python` | `IA` |`Java` | `Spring Boot` | `SQL` | `Python` | `React Native` | `JavaScript` | `PHP`
+### 🤖 AI & Data Science
 
-🧰 **Tools:**  
-`Git` | `Maven` | `VS Code` | `Postman` | `Insomnia` | `Docker` | `Linux`
+`Python`
+`TensorFlow`
+`PyTorch`
+`Scikit-Learn`
+`Pandas`
+`NumPy`
+`OpenAI`
+`LangChain`
+`LlamaIndex`
+`RAG`
+`Vector Databases`
+`Machine Learning`
+`Generative AI`
+
+### 💻 Software Engineering
+
+`Python`
+`FastAPI`
+`React`
+`JavaScript`
+`TypeScript`
+`REST APIs`
+`Java`
+`Microservices`
+
+### ☁️ DevOps & Infrastructure
+
+`Docker`
+`Linux`
+`Git`
+`GitHub Actions`
+`Maven`
+`Postman`
+`Insomnia`
 
 ---
 
-## 💼 **Job Experience**
-<br>
+## 💼 Professional Experience
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="100px" align="center" valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_do_BNDES.svg" width="90" alt="BNDES" />
-    </td>
-    <td>
-      <b>System Analyst Intern</b> • <i>May 2024 – Present</i> <br>
-      <b>BNDES - Banco Nacional de Desenvolvimento Econômico e Social</b> <br>
-      <b>Technologies:</b> <code>Java</code> <code>TypeScript</code> <code>JavaScript</code> <code>Angular</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="100px" align="center" valign="middle">
-      <!-- Recomendo hospedar o logo no seu repositório para evitar quebras -->
-      <img src="https://media.licdn.com/dms/image/v2/C560BAQGAHjNZyiV_og/company-logo_200_200/company-logo_200_200/0/1631380668551?e=2147483647&v=beta&t=udPPS68BBfdgVdQrI4ROPhYSRvINC5QpzRyUj8HFaxE" width="90" alt="Centauro Engenharia" />
-    </td>
-    <td>
-      <b>TI Intern</b> • <i>Oct 2023 – May 2024</i> <br>
-      <b>Centauro Engenharia</b> <br>
-      <b>Technologies:</b> <code>PHP</code> <code>JavaScript</code> <code>React</code>
-    </td>
-  </tr>
-</table>
+### 🏦 BNDES — System Analyst Intern
 
-<br>
+**May 2024 – Present**
 
+* Development and maintenance of enterprise systems.
+* Process automation and software modernization.
+* Participation in innovation and digital transformation initiatives.
+
+**Technologies:**
+`Java` `TypeScript` `JavaScript` `Angular`
 
 ---
 
-## ✉️ Contact Me
+### 🏗️ Centauro Engenharia — TI Intern
 
-📫 **Email:** [dmedeiros1209@gmail.com](mailto:dmedeiros1209@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/danielvieiramedeiros](https://www.linkedin.com/in/danielvieiramedeiros)
+**Oct 2023 – May 2024**
+
+* Development and maintenance of internal systems.
+* Support for digitalization and process optimization projects.
+
+**Technologies:**
+`PHP` `JavaScript` `React`
+
+---
+
+## 🚀 Current Interests
+
+* Agentic AI
+* Multi-Agent Systems
+* Generative AI Applications
+* AI for Business
+* Computer Vision
+* Natural Language Processing (NLP)
+* MLOps
+* AI Product Development
+
+---
+
+## 📊 GitHub Focus
+
+Currently focused on projects involving:
+
+* AI Assistants
+* LLM Applications
+* RAG Architectures
+* Machine Learning Models
+* Data Analysis
+* Intelligent Automation
+* Enterprise AI Solutions
+
+---
+
+## ✉️ Contact
+
+📫 Email: **[dmedeiros1209@gmail.com](mailto:dmedeiros1209@gmail.com)**
+
+💼 LinkedIn: **linkedin.com/in/danielvieiramedeiros**
